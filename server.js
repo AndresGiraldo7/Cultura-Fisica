@@ -4,7 +4,6 @@ const path = require('path');
 
 const app = express();
 
-app.set("port", 3000)
 
 // Serve only the static files form the dist directory
 app.use(express.static('./dist/cartilla'));
