@@ -1,0 +1,93 @@
+{
+  "version": "0.0.0",
+  "name": "cartilla",
+  "problems": [
+    "missing: @angular/animations@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/common@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/compiler@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/core@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/forms@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/platform-browser-dynamic@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/platform-browser@^14.1.0, required by cartilla@0.0.0",
+    "missing: @angular/router@^14.1.0, required by cartilla@0.0.0",
+    "missing: express@^4.18.1, required by cartilla@0.0.0",
+    "missing: rxjs@~7.5.0, required by cartilla@0.0.0",
+    "missing: tslib@^2.3.0, required by cartilla@0.0.0",
+    "missing: zone.js@~0.11.4, required by cartilla@0.0.0"
+  ],
+  "dependencies": {
+    "@angular/animations": {
+      "required": "^14.1.0",
+      "missing": true,
+      "problems": [
+        "missing: @angular/animations@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/common": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/common@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/compiler": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/compiler@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/core": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/core@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/forms": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/forms@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/platform-browser-dynamic": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/platform-browser-dynamic@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/platform-browser": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/platform-browser@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "@angular/router": {
+      "missing": true,
+      "problems": [
+        "missing: @angular/router@^14.1.0, required by cartilla@0.0.0"
+      ]
+    },
+    "express": {
+      "missing": true,
+      "problems": [
+        "missing: express@^4.18.1, required by cartilla@0.0.0"
+      ]
+    },
+    "rxjs": {
+      "missing": true,
+      "problems": [
+        "missing: rxjs@~7.5.0, required by cartilla@0.0.0"
+      ]
+    },
+    "tslib": {
+      "missing": true,
+      "problems": [
+        "missing: tslib@^2.3.0, required by cartilla@0.0.0"
+      ]
+    },
+    "zone.js": {
+      "missing": true,
+      "problems": [
+        "missing: zone.js@~0.11.4, required by cartilla@0.0.0"
+      ]
+    }
+  }
+}
